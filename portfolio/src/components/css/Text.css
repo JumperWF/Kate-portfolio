@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    margin-top: 65px;
+     /*peredelat'*/
+}
+
+.mainPhoto {
+    float: right;
+    margin: 0 5px;
+}
+
+.mainText {
+    margin: 5px 10px;
+}
